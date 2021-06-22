@@ -1,0 +1,59 @@
+@charset "utf-8";
+img {
+    border-radius: 10%;
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-shadow: 1px 1px 1px whitesmoke;
+    font-family: apple-system;
+    font-size: 40pt;
+    text-align: center;
+}
+
+#test {
+    font-style: italic;
+    font-family: Lucida Handwriting;
+    text-align: center;
+    font-size: 80%;
+}
+
+#principal {
+    background-color: black (14, 157, 240, 0.788);
+}
+
+#alinhamento {
+    float: left;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 50%;
+}
+
+h2 {
+    font-style: italic;
+}
+
+li {
+    list-style-position: inside ;
+}
+
+p {
+    text-align: justify;
+}
